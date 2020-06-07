@@ -45,7 +45,7 @@ Andriod Studio
 
 ### Home Screen
 
-![Home Screen](./Images/HomeScreen1.jpg)
+![Home Screen](./Images/HomeScreen.jpg)
 
 ### Language Select 
 
