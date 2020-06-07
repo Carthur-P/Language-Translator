@@ -1,5 +1,5 @@
 # Language-Translator
-Android app that can translate English text to 5 different languages with text-to-speech functionality. This Android application will allow the user to input text into the textbox which will then be translated to a different language. The user will then select from 5 different languages which include; English, French, Spanish, German and Italian. The app uses the translate.yandex API to translate the user input text into different languages. Link to the translate.yandex API can be found below. This application was developed as part of the Otago Polytechnic Bachelor of Information Technology Mobile paper (IN).
+Android app that can translate English text to 5 different languages with text-to-speech functionality. This Android application will allow the user to input text into the textbox which will then be translated to a different language. The user will then select from 5 different languages which include; English, French, Spanish, German and Italian. The app uses the translate.yandex API to translate the user input text into different languages. Link to the translate.yandex API can be found below. This application was developed as part of the Otago Polytechnic Bachelor of Information Technology Mobile paper (IN721000).
 
 translate.yandex: https://translate.yandex.com/developers
 
