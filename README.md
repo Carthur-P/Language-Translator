@@ -9,7 +9,7 @@ The project source code can be open using Andriod Studio. From there you can use
 ### Andriod Studio Method
 1. Open the project source code in Android Studio. Once the project completely loads and the project is ready. Click 'run app' under the run tab in the toolbar located at the top of the screen.
 
-![Run App](./Images/RunApp.jpg)
+![Run App](./Images/RunApp.JPG)
 
 2. Select the Andriod phone emulator that you want to run the application on. If there are no available emulators. You will have to install one using Android Studio. Click 'Create New Virtual Device' located at the bottom left of the screen and follow the installation wizard.
 
@@ -26,11 +26,11 @@ The project source code can be open using Andriod Studio. From there you can use
 
 2. Locate the .apk file on your phone and open it. Tap 'install' and the installation process of the application will begin.
 
-![Install](./Images/Install.jpg)
+![Install](./Images/Install.JPG)
 
 3. Click 'install anyway'
 
-![Install Anyway](./Images/InstallAnyway.jpg)
+![Install Anyway](./Images/InstallAnyway.JPG)
 
 ## Technologies Used
 Java  
@@ -41,23 +41,23 @@ Andriod Studio
 
 ### Welcome Screen
 
-![Welcome Screen](./Images/WelcomeScreen.jpg)
+![Welcome Screen](./Images/WelcomeScreen.JPG)
 
 ### Home Screen
 
-![Home Screen](./Images/HomeScreen.jpg)
+![Home Screen](./Images/HomeScreen.JPG)
 
 ### Language Select 
 
-![Language Select](./Images/LanguageSelect.jpg)
+![Language Select](./Images/LanguageSelect.JPG)
 
 ### Word Translating
 
-![Word Translating](./Images/Translating.jpg)
+![Word Translating](./Images/Translating.JPG)
 
 ### Word Translated
 
-![Word Translated](./Images/Translated.jpg)
+![Word Translated](./Images/Translated.JPG)
 
 
 
